@@ -4,6 +4,38 @@
 
 <img align="right" alt="coding" width=400 src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
+[![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
+![License](https://camo.githubusercontent.com/890acbdcb87868b382af9a4b1fac507b9659d9bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
+
+Sublime Text plugin providing probably all git has to offer:
+
+- basic Git functionality; `init`, `add`, `commit`, `amend`, `checkout`, `pull`, `push`, etc.
+- special views for status, branches, and tags.  Try `git: status`
+- a superb "Repo History", like `gitk`, just with more features; try `git: Repo History`.  
+- Rebasing just from that "Repo History".  Edit a commit, reword a commit, autosquash commits, apply a fixup, whatever...  the `[r]` menu
+- a "Line History", just select something in a view and search the Command Palette for `git: Line History`
+- likewise a "File History"
+- `git diff` view, allowing user to stage, unstage and reset (discard) files, hunks or individual lines
+- fixup/squash helpers everywhere, for example from the "Line History" 
+- GitHub integration
+    + issue/collaborator referencing when committing
+    + opening the current file or a commit on GitHub at the selected line
+    + make a new PR from the current branch
+    
+- GitHub-style blame view, showing hunk metadata and ability to view the commit that made the change
+
+
+**Note:** GitSavvy requires Git versions at or greater than 2.18.0.
+
+**Note:** Sublime Text 2 is not supported.  Also, GitSavvy takes advantage of modern features of Sublime Text (like annotations).  For the best experience, use the latest Sublime Text _dev_ build.  Or not, I mean it could also crash you, what am I to recommend here.
+
+
+## Documentation
+
+The documentation is probably outdated.  Yeah it's sad but you can contribute and I will eventually get onto it **but** every special view has help available, just press `?`.
+
+Feature documentation can be found [here](docs/README.md).  It can also be accessed from within Sublime by opening the command palette and typing.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imamit-1711&label=Profile%20views&color=0e75b6&style=flat" alt="imamit-1711" /> </p>
 
 - 🌱 I’m currently learning **Java, SpringBoot, JavaScript, React js, Docker**
