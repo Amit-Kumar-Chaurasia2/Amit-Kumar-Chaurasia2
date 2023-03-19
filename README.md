@@ -28,7 +28,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/imamit1711"> <img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=imamit1711&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" height="50" width="210" alt="https://www.buymeacoffee.com/imamit1711" /><a href='https://ko-fi.com/C0C8HRLIJ' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/imamit1711"> <img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=imamit1711&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" height="50" width="210" alt="https://www.buymeacoffee.com/imamit1711" /><a href='https://ko-fi.com/imamit1711' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamit-1711&hide=javascript,html)](https://github.com/imamit-1711/github-readme-stats)
 
