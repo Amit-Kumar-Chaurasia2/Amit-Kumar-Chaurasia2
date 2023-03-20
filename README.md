@@ -63,10 +63,10 @@ Feature documentation can be found [here](docs/README.md).  It can also be acces
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=imamit-1711&show_icons=true&locale=en&theme=radical&layout=compact" alt="imamit-1711" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imamit-1711&show_icons=true&locale=en&theme=radical" alt="imamit-1711" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imamit-1711&show_icons=true&locale=en&theme=radical" alt="imamit-1711" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imamit-1711&theme=radical" alt="imamit-1711" /></p> 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imamit-1711&theme=radical" alt="imamit-1711" /></p> 
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/imamit-1711/github-readme-stats)
