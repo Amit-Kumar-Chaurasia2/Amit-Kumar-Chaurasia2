@@ -54,6 +54,7 @@ Feature documentation can be found [here](docs/README.md).  It can also be acces
 <a href="https://www.leetcode.com/IMAMIT1711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="IMAMIT1711" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chaurasiaamitkumar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chaurasiaamitkumar2" height="30" width="40" /></a>
 <a href="https://instagram.com/amitkumar.1711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amitkumar.1711" height="30" width="40" /></a>
+<a href="https://twitter.com/AmitKum92732261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitkumar.1711" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imamit-1711&label=Profile%20views&color=0e75b6&style=flat" alt="imamit-1711" /> </p>
