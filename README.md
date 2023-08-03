@@ -75,7 +75,7 @@ Feature documentation can be found [here](docs/README.md).  It can also be acces
     
 ![Amit-Kumar-Chaurasia2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Kumar-Chaurasia2&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-![Amit-Kumar-Chaurasia2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iAmit-Kumar-Chaurasia2&theme=radical&hide_border=false)
+![Amit-Kumar-Chaurasia2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amit-Kumar-Chaurasia2&theme=radical&hide_border=false)
 
 
 
